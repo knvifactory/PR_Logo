@@ -1,1 +1,2 @@
-# PR_Logo
+# About
+Repository of Logo Project
